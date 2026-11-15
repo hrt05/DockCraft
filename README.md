@@ -1,0 +1,2 @@
+# DockCraft
+dockerでminecraftのサーバーを構築するためのプロジェクト
